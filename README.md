@@ -16,6 +16,26 @@ A lightweight, always-on-top network speed monitor widget for Windows.
 - ✅ **Remembers position** - Window position saved between sessions
 - ✅ **Start with Windows** - Optional auto-start
 
+## Sample Screenshots
+
+### Main widget
+<img src=".\img\widget.jpg" alt="Screenshots" />
+
+### Context Menu
+<img src=".\img\contextMenu.jpg" alt="Context Menu" />
+
+### Notification Icon with tooltip
+<img src=".\img\notificationIcon.jpg" alt="Notification Icon with tooltip" />
+
+### Settings
+<img src=".\img\settings1.jpg" alt="Settings" />
+
+<img src=".\img\settings2.jpg" alt="More Settings" />
+
+### Demo Video
+
+[Click here to download demo video (or you can find it inside "Demo Video" direcotory)](https://github.com/pranayjoshicse/NetworkMonitorWidget/raw/refs/heads/main/demo%20video/networkMonitorWidget.mp4)
+
 ## Requirements
 
 - Windows 10/11
@@ -161,3 +181,4 @@ MIT License - Feel free to modify and distribute.
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
+
